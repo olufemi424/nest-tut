@@ -79,3 +79,39 @@
 ![](slides/1.3/1.37.png "")
 
 ![](slides/1.3/1.38.png "")
+
+
+
+
+## Application Planning.
+
+![](slides/1.4/1.40.png "")
+
+![](slides/1.4/1.41.png "")
+
+![](slides/1.4/1.42.png "")
+
+![](slides/1.4/1.43.png "")
+
+
+## Persisting Data.
+
+![](slides/1.5/1.50.png "")
+
+![](slides/1.5/1.51.png "")
+
+![](slides/1.5/1.52.png "")
+
+![](slides/1.5/1.53.png "")
+
+![](slides/1.5/1.54.png "")
+
+![](slides/1.5/1.55.png "")
+
+![](slides/1.5/1.56.png "")
+
+![](slides/1.5/1.57.png "")
+
+![](slides/1.5/1.58.png "")
+
+![](slides/1.5/1.59.png "")
